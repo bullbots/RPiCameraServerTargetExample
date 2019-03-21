@@ -27,9 +27,7 @@ On the rPi web dashboard:
 The application will be automatically started.  Console output can be seen by
 enabling console output in the Vision Status tab.
 
-=
-Building locally on rPi
-=
+## Building locally on rPi
 
 1) Run "./gradlew build"
 2) Run "./install.sh" (replaces /home/pi/runCamera)
