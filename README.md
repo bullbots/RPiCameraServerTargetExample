@@ -1,8 +1,6 @@
 # RPiCameraServerTargetExample
 
-=
-Building on desktop
-=
+## Building on desktop
 
 --------
 Building
