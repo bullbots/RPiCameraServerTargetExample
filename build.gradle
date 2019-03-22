@@ -4,6 +4,9 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '4.0.3' apply false
 }
 
+sourceCompatibility = JavaVersion.VERSION_11
+targetCompatibility = JavaVersion.VERSION_11
+
 mainClassName = 'Main'
 
 apply plugin: 'com.github.johnrengelman.shadow'
